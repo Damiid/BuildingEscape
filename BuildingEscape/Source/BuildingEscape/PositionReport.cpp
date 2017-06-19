@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright ImadK 2017.
 
 #include "PositionReport.h"
 #include "GameFramework/Actor.h"
