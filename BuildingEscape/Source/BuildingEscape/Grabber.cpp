@@ -3,6 +3,7 @@
 #include "Grabber.h"
 #include "GameFramework/Actor.h"
 #include "GameFramework/PlayerController.h"
+#include "Components/PrimitiveComponent.h"
 #include "Engine/World.h"
 
 #define OUT
